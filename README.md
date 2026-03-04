@@ -11,13 +11,14 @@ this is a backup to our poster we are submiting <br>
 </h2>
 <br>
 <p>
-  pip install customtkinter
-  pip install pillow
-  pip install pyttsx3
-  pip install time 
+  pip install customtkinter <br>
+  pip install pillow <br>
+  pip install pyttsx3 <br>
+  pip install time <br>
 </p>
 <br>
 <p>
   **Use this time command if you dont have other wise it is pre loaded**
 </p>
 <hr>
+
