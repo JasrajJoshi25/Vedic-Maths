@@ -1,4 +1,4 @@
-from customtkinter import *
+ from customtkinter import *
 import voice
 import time
 from PIL import Image
@@ -8,7 +8,7 @@ num2 = None
 label = None
 
 
-def ved_calc():
+def ved_calc(): 
     global num1, num2, label
 
     try:
@@ -201,7 +201,7 @@ def menu():
     time.sleep(1)
 
     voice.speak(
-        "Welcome to Vedic Maths Poster, we are Group 4, We are here to present our project on Vedic Mathematics. Let's dive in and explore the fascinating work of Bhaarti Krishna together!"
+        "Welcome to Vedic Maths Poster, we are Group 5, We are here to present our project on Vedic Mathematics. Let's dive in and explore the fascinating work of Bhaarti Krishna together!"
     )
 
     btnFrame = CTkFrame(app)
